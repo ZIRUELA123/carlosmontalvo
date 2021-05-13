@@ -1,0 +1,13 @@
+﻿
+table, th, td {
+ border: 1px solid purple;
+}
+
+h1 {
+ border: 2px solid purple;
+}
+
+body{
+ background-color: DarkSalmon;
+ opacity: 2.0;
+}
